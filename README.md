@@ -1,11 +1,22 @@
 <h1 align="center">Hi 👋, I'm Mansilla Agustin</h1>
 <h3 align="center">A passionate frontend developer from argentina</h3>
 
+- 🔭 I’m currently working on **cfp402.edu.ar >> React,chakra-ui,googleSheets,facebook-api**
+
+- 🌱 I’m currently learning **Tec. Programador**
+
+- 👨‍💻 All of my projects are available at [https://agustinmme.ar/](https://agustinmme.ar/)
+
+- 💬 Ask me about **React,Java,c#**
+
+- 📫 How to reach me **agustinmansilla240@gmail.com**
+
+- 📄 Know about my experiences [https://agustinmme.ar/docs/CV.pdf](https://agustinmme.ar/docs/CV.pdf)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/agustinmme1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/agustinmme1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/agustinmme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agustinmme" height="30" width="40" /></a>
-<a href="https://agustinmme.ar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://agustinmme.ar/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
