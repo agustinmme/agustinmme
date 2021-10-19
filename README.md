@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on **cfp402.edu.ar >> React,chakra-ui,googleSheets,facebook-api**
 
-- 🌱 I’m currently learning **Tec. Programador**
+- 🌱 I’m currently learning **Tec. Programador && English**
 
-- 👨‍💻 All of my projects are available at [https://agustinmme.ar/](https://agustinmme.ar/)
+- 👨‍💻 All of my projects are available at [Web](https://agustinmme.ar/)
 
 - 💬 Ask me about **React,Java,c#**
 
 - 📫 How to reach me **agustinmansilla240@gmail.com**
 
-- 📄 Know about my experiences [https://agustinmme.ar/docs/CV.pdf](https://agustinmme.ar/docs/CV.pdf)
+- 📄 Know about my experiences [CV](https://agustinmme.ar/docs/CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
