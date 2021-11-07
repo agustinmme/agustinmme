@@ -7,7 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [Web](https://agustinmme.ar/)
 
-- 💬 Ask me about **React,Java,c#**
 
 - 📫 How to reach me **agustinmansilla240@gmail.com**
 
