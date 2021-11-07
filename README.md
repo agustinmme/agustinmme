@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **cfp402.edu.ar >> React,chakra-ui,googleSheets,facebook-api**
 
-- 🌱 I’m currently learning **Typescript && Spring boot && English**
+- 🌱 I’m currently learning **Spring boot && English**
 
 - 👨‍💻 All of my projects are available at [Web](https://agustinmme.ar/)
 
