@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mansilla Agustin</h1>
 <h3 align="center">A passionate frontend developer from argentina</h3>
 
-- 🔭 I’m currently working on **cfp402.edu.ar >> React,chakra-ui,googleSheets,facebook-api**
+- 🌱 I’m currently learning **TypeScript && Next.JS && English**
 
-- 🌱 I’m currently learning **Spring boot && English**
-
-- 👨‍💻 All of my projects are available at [Web](https://agustinmme.ar/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://agustinmme.ar/)
 
 
 - 📫 How to reach me **agustinmansilla240@gmail.com**
