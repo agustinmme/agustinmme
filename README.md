@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mansilla Agustin</h1>
 <h3 align="center">A passionate frontend developer from argentina</h3>
 
-- 🌱 I’m currently learning **TypeScript && Next.JS && English**
+- 🌱 I’m currently learning **DevOps - aws - Testing**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://agustinmme.ar/)
 
 
-- 📫 How to reach me **agustinmansilla240@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
