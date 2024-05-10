@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Agustin Mansilla</h1>
 <h3 align="center">A passionate Developer from Argentina</h3>
-# 💫 About Me:
-🔭 I am currently working at La Nación as QA Automation 
-🌱 I’m currently learning Computer Science & Cloud/DevOps 
+
+# 💫 About Me:<br/>
+
+🔭 I am currently working at La Nación as QA Automation <br/>
+🌱 I’m currently learning Computer Science & Cloud/DevOps <br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/agustinmme) 
